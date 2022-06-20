@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @txusdavid27
-- 👀 I’m interested in you
+- 👀 I’m interested in the future
 - 🌱 I’m currently learning about Machine Learning xd
 - 💞️ I’m looking to collaborate on SIGs
 - 📫 How to reach me? Go to my Instagram @contrapuntero
