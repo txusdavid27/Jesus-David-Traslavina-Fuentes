@@ -162,7 +162,7 @@ Hi, I'm <b>Jesús David</b>, a passionate FullStack Developer from Colombia 🇨
 <hr width="50%">
 </div>
 <p align=center>
-  <img alig src="./assets/txusdavid27.gif" />
+  <img alig src="./assets/supermavsters.gif" />
   <br>
 <samp align="center">
 Always fix the biggest problems (Bugs*)
