@@ -46,10 +46,10 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
     <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=txusdavid27&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
-    ![image](https://github.com/txusdavid27/txusdavid27/assets/75964273/87461ced-395c-4077-9c70-583ca176f551)
-
   </a>
 </div>
+![image](https://github.com/txusdavid27/txusdavid27/assets/75964273/99a274e0-0994-4902-8c22-2699a852ed4d)
+
 <br>
 
 <!-- Languages and Tools -->
