@@ -33,22 +33,6 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Cat man 🐈.
 
 <br>
-<!-- Ranking Global -->
-
-<div align="center">
-<h2>🪪 Ranking Global 🚀</h2>
-<hr width="80%">
-<hr width="50%">
-</div>
-<br>
-<div align="center">
-  <a href="https://profile.codersrank.io/user/txusdavid27">
-    <img
-  src="https://github.com/txusdavid27/txusdavid27/assets/75964273/99a274e0-0994-4902-8c22-2699a852ed4d;--border-radius:10px"
-/>
-  </a>
-</div>
-<br>
 
 <!-- Languages and Tools -->
 <div align="center">
