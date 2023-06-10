@@ -107,14 +107,14 @@ Hi, I'm <b>Jesús David</b>, a passionate FullStack Developer from Colombia 🇨
 <div align=center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img align="right" width=70% src="https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg" alt="txusdavid27" />
+<img align="right" width=70% src="https://github-readme-stats.vercel.app/api/wakatime?username=mavster&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="supermavster" />
 </a>
 <div align=left>
 
-|<a href="https://hritik5102.github.io/"><img src="https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg" width="150px" height="150px" /></a>|
+|<a href="https://hritik5102.github.io/"><img src="https://avatars.githubusercontent.com/u/20430676" width="150px" height="150px" /></a>|
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|**[Jesus David]()**| 
-|<a href="https://github.com/txusdavid27"><img src="(https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg)" width="32px" height="32px"></a> <a href="https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="32px" height="32px" style="border-radius: 10px"></a>|
+|**[Miguel Ángel](https://supermavsters.com)**| 
+|<a href="https://github.com/supermavster"><img src="https://img2.freepng.es/20180704/uxe/kisspng-github-computer-icons-icon-design-desktop-wallpape-5b3d36142dd125.8636932415307381961877.jpg" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/miguel-angel-torres-vargas/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="32px" height="32px" style="border-radius: 10px"></a>|
 </div>
 </div>
 <br>
