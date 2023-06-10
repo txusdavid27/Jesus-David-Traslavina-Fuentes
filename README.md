@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </samp>
 
 <br>
-<a href="https://supermavsters.com">
+<a href="">
   <img align="right" src="./assets/supermavster.gif" width="40%" style="border-radius: 10px"/>
 </a>
 
@@ -46,7 +46,8 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
     <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=txusdavid27&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
-    
+    ![image](https://github.com/txusdavid27/txusdavid27/assets/75964273/87461ced-395c-4077-9c70-583ca176f551)
+
   </a>
 </div>
 <br>
