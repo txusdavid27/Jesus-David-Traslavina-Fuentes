@@ -34,6 +34,7 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🇨🇴
 
 <br>
 <!-- Ranking Global -->
+
 <div align="center">
 <h2>🪪 Ranking Global 🚀</h2>
 <hr width="80%">
@@ -41,13 +42,14 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🇨🇴
 </div>
 <br>
 <div align="center">
-  <a href="https://profile.codersrank.io/user/txusdavid27">
+  <a href="https://profile.codersrank.io/user/supermavster">
   <img
-    src=""
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=supermavster&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
        />
   </a>
 </div>
 <br>
+
 <!-- Languages and Tools -->
 <div align="center">
 <h2>🐱‍💻 Languages and Tools 🛠️</h2>
