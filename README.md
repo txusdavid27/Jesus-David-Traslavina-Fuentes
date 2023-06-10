@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🇨🇴
+Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
 
 
 - 👋 Hi, I’m @txusdavid27
