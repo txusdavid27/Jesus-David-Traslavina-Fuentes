@@ -43,7 +43,7 @@ Hi, I'm <b>Jesús David</b>, a passionate FullStack Developer from Colombia 🇨
 <div align="center">
   <a href="https://profile.codersrank.io/user/txusdavid27">
   <img
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=supermavster&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+    src=""
        />
   </a>
 </div>
