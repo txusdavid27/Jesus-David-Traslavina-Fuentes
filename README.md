@@ -144,3 +144,8 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
 Always fix the biggest problems (Bugs*)
 </samp>
 </p>
+
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+![github contribution grid snake animation](https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg)
+
+generated with _[Platane/snk](https://github.com/Platane/snk)_
