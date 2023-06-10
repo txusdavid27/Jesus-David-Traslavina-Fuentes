@@ -107,7 +107,7 @@ Hi, I'm <b>Jesús David</b>, a passionate FullStack Developer from Colombia 🇨
 <div align=center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img align="right" width=70% src="[https://github-readme-stats.vercel.app/api/wakatime?username=mavster&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true](https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg)" alt="txusdavid27" />
+<img align="right" width=70% src="https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_400_400/0/1682013415968?e=1691625600&v=beta&t=mn4RxtSkOVXJXk-2Eef_xYXrUGlJ2IpAMbzmw1N4Qxg" alt="txusdavid27" />
 </a>
 <div align=left>
 
