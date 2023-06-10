@@ -134,7 +134,6 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🇨🇴
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=txusdavid27&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br>
 <!-- GitHub Trophy -->
