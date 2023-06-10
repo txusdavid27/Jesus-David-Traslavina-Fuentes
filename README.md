@@ -104,8 +104,8 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🇨🇴
 
 |<a href="https://hritik5102.github.io/"><img src="https://media.licdn.com/dms/image/D4E03AQEwScCn5f2Saw/profile-displayphoto-shrink_800_800/0/1682013415968?e=1691625600&v=beta&t=EuuWp9XY_1tzG5ll3jU5YgyH1lvSWGnuduyYmhudAoc" width="150px" height="150px" /></a>|
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|**[Miguel Ángel](https://supermavsters.com)**| 
-|<a href="https://github.com/supermavster"><img src="https://img2.freepng.es/20180704/uxe/kisspng-github-computer-icons-icon-design-desktop-wallpape-5b3d36142dd125.8636932415307381961877.jpg" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/miguel-angel-torres-vargas/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="32px" height="32px" style="border-radius: 10px"></a>|
+|**[Jesús David](https://supermavsters.com)**| 
+|<a href="https://github.com/txusdavid27"><img src="https://img2.freepng.es/20180704/uxe/kisspng-github-computer-icons-icon-design-desktop-wallpape-5b3d36142dd125.8636932415307381961877.jpg" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/jes%C3%BAs-david-traslavi%C3%B1a-fuentes-475929201/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" width="32px" height="32px" style="border-radius: 10px"></a>|
 </div>
 </div>
 <br>
