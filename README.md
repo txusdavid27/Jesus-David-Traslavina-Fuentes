@@ -28,7 +28,7 @@ Hi, I'm <b>Jesús David</b>, a passionate Developer from Colombia 🟡🔵🔴
 - 👋 Hi, I’m @txusdavid27
 - 👀 I’m interested in the future
 - 🌱 I’m currently learning and working in different projects.
-- 💞️ I’m looking to collaborate on SIGs DevOps and Cybersecurity
+- 💞️ I’m looking to collaborate on Quality
 - 📫 How to reach me? Go to my Instagram @gsus6174
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Cat man 🐈.
 
